@@ -1,16 +1,17 @@
 header {
     background-color: indigo;
+}
+.coral {
     color: coral;
     text-align: center;
 }
-
 body {
     margin: 0;
     background-image: url('record.png');
     background-repeat: repeat;
 }
 
-main {
+.main {
     background-color: lightgray;
     padding: 1em;
 }
